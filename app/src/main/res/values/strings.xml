@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bar and QR Code Scanner</string>
+    <string name="permissions_not_granted_by_the_user">Permissions not granted by the user</string>
+    <string name="scan">Scan</string>
+    <string name="kode_bayar">Kode Bayar</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="bayar_menggunakan_scan_atau_menggunakan_kode_bayar_dibawah">Bayar menggunakan Scan QR Code Dibawah ini</string>
+</resources>
